@@ -11,3 +11,4 @@ Graphics series with John Chapman: 1/ Universe of Triangles :    [![](https:/
 [https://www.math10.com/ru/vysshaya-matematika/matrix/umnozhenie-matric.html](https://vk.com/away.php?to=https%3A%2F%2Fwww.math10.com%2Fru%2Fvysshaya-matematika%2Fmatrix%2Fumnozhenie-matric.html&cc_key=)
 
 "Линейная алгебра и аналитическая геометрия" Потапов
+
