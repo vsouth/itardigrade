@@ -13,7 +13,7 @@ Graphics series with John Chapman: 1/ Universe of Triangles :    [![](https:/
 
 https://www.youtube.com/@TheHappieCat
 https://www.youtube.com/@FloatyMonkey
-https://www.youtube.com/@g5min
+https://www.youtube.com/@g5min - https://g5m.cs.washington.edu
 
 
 https://www.youtube.com/watch?v=YwzaFSszSPc&list=PLtuv65ivttlzWM0b2AYzHcbTseqKlrh58
